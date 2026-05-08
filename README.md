@@ -26,12 +26,7 @@ Cloud       AWS fundamentals, Azure fundamentals
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mursyidd&label=Profile%20views&color=0e75b6&style=flat" alt="mursyidd" />
-</p>
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mursyidd&label=Profile%20views&color=0e75b6&style=flat" alt="mursyidd" />
+  <img src="https://komarev.com/ghpvc/?username=mursyidd&label=Profile%20views&color=0e75b6&style=plastic" alt="mursyidd" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
