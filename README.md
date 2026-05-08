@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @mursyidd
-- 👀 I’m interested in desktop application and mobile development
-- 🌱 I’m currently learning developing wpf application and dotnet core
-- 💞️ I’m looking to collaborate on something much bigger with someone great as guidance
-- 📫 Can reach me => ciddhere@gmail.com
+# Mursyid — Software Engineer
 
-<!---
-mursyidd/mursyidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build web applications using Angular, ASP.NET Core, C#, TypeScript, and MSSQL.
+
+My main focus is creating clean, maintainable, and scalable systems, from frontend interfaces to backend APIs.
+
+## Core Skills
+
+```text
+Frontend    Angular, AngularJS, TypeScript, JavaScript
+Backend     ASP.NET Core, ASP.NET Web API, C#
+Database    MSSQL, Dapper
+Tools       Git, GitHub, Docker
+Cloud       AWS fundamentals, Azure fundamentals
