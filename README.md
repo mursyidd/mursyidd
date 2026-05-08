@@ -25,6 +25,6 @@ Cloud       AWS fundamentals, Azure fundamentals
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mursyidd&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=mursyidd&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=mursyidd&style=plastic&color=blueviolet" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
